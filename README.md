@@ -1,4 +1,3 @@
-[styles.css](https://github.com/user-attachments/files/27874786/styles.css)
 h1 {
 
 color: rgb(0, 0, 0);
